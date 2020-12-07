@@ -1,0 +1,13 @@
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.exe
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.deps.json
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.runtimeconfig.json
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.runtimeconfig.dev.json
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.dll
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\bin\Debug\netcoreapp3.1\Exercice.Net_Atelier1.pdb
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.csprojAssemblyReference.cache
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.AssemblyInfoInputs.cache
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.AssemblyInfo.cs
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.csproj.CoreCompileInputs.cache
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.dll
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.pdb
+C:\Users\mondo\RiderProjects\Exercice.Net_Atelier1\Exercice.Net_Atelier1\obj\Debug\netcoreapp3.1\Exercice.Net_Atelier1.genruntimeconfig.cache
